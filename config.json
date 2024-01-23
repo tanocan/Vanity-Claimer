@@ -1,0 +1,9 @@
+{
+    "license": "TEST_LICENSE",
+    "token": "",
+    "guild_id": "",
+    "webhook": "",
+    "threads": 20,
+    "delay": 1
+
+}
